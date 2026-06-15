@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "date_changed": "2026-06-15 15:31",
+    "date_changed": "2026-06-15 16:00",
     "announcements": [
         {
             "date": "2026-03-03 00:00",
@@ -165,17 +165,6 @@
             "zh-CN": {
                 "title": "#★ 惊奇不断",
                 "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_26.6.14/cn.md"
-            }
-        },
-        {
-            "date": "2026-06-15 15:31",
-            "default": {
-                "title": "# [AUTOTEST] CI Validation",
-                "content": "https://raw.githubusercontent.com/nantas/NA2Announcements/master/announcements/AUTOTEST-CI-VALIDATION/en.md"
-            },
-            "zh-CN": {
-                "title": "# [AUTOTEST] CI 验证",
-                "content": "https://raw.githubusercontent.com/nantas/NA2Announcements/master/announcements/AUTOTEST-CI-VALIDATION/cn.md"
             }
         }
     ]
